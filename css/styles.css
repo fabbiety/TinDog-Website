@@ -115,7 +115,7 @@ em{
 }
 
 .press-icon{
-  width: 15%;
+  width: 12%;
 }
 
 /* Pricing section */
@@ -130,6 +130,39 @@ padding: 5% 2%;
 
 }
 
+
+/* Call to Action */
+
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 7% 17%;
+
+}
+.cta-text{
+  font-family: "Montserrat-Black";
+font-size: 3.5rem;
+  color: #fff;
+line-height: 1.5;
+
+}
+
+/* Footer Section */
+
+#footer{
+  padding: 5% 27% 1%;
+  text-align:center;
+  background-color: #fff;
+
+}
+
+.footer-icon{
+  padding: 0 1rem ;
+  color: black;
+}
+.footer-icon:hover{
+  color: #ff4c68;
+}
 
 /* Media Query */
 
